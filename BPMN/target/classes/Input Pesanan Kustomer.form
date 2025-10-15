@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "label": "Nama Produk",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_150lu02",
+        "columns": null
+      },
+      "id": "Field_12wrw31",
+      "key": "namaProduk",
+      "readonly": false
+    },
+    {
+      "label": "Jumlah",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0n5tvb5",
+        "columns": null
+      },
+      "id": "Field_1isal3x",
+      "key": "jumlah"
+    }
+  ],
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.36.1"
+  },
+  "schemaVersion": 18,
+  "id": "input-pesanan-kustomer",
+  "type": "default"
+}
